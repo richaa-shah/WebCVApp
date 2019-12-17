@@ -1,2 +1,0 @@
-# WebCVApp
-Created with CodeSandbox
